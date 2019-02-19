@@ -1,0 +1,52 @@
+
+/* .main-header { 
+   background: url(./img/background.jpg); 
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  color: rgb(255, 255, 255);
+ background-color:  rgb(12, 166, 231); 
+ } */
+
+/* .main-header .showcase {
+  padding-top: 100px;
+}
+
+.active-link {
+  color: #d847f1;
+  color: #c5d83a;
+  font-weight: bold;
+} */
+
+/*  REACT STUFF */
+/* .App {
+  text-align: center;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+} */
+/* 
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
